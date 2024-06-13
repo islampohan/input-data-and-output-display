@@ -27,9 +27,8 @@ Then installing your local server like XAMPP and complete the stages, the next s
 The other step is just learn while doing. You'll figure it out yourself as the time flies by.
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1WllrflwIIfYhhjCjlUxtba1e85HIZXi7/view?usp=drive_link)
-
-![App Screenshot](https://drive.google.com/file/d/1m9jNAjD6ToxQv43_reTmOyzKak01JOvd/view?usp=drive_link)
+![Table Screenshot](https://drive.google.com/uc?export=view&id=1WllrflwIIfYhhjCjlUxtba1e85HIZXi7)
+![Graph Screenshot](https://drive.google.com/uc?export=view&id=1m9jNAjD6ToxQv43_reTmOyzKak01JOvd)
 
 "# input-data-and-output-display" 
 "# input-data-and-output-display" 
